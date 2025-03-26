@@ -1,4 +1,4 @@
-Drug Repurposing for Dengue using FCNN
+Drug Repurposing for Dengue using deep learning
 This repository contains a deep learning pipeline for drug repurposing targeting the dengue virus. The project leverages advanced embeddings for drug and protein representations, combined with a Fully Connected Neural Network (FCNN), to predict dissociation constant (Kd) values for drug-target interactions.
 
 Overview
